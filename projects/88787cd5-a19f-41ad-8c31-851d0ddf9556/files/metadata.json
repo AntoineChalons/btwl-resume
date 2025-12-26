@@ -1,0 +1,350 @@
+[
+  {
+    "id": "-V30QstYLB5STILrat6iE",
+    "name": "job-01",
+    "path": "/sections/job-01",
+    "type": "directory",
+    "lastModified": 1766736149392
+  },
+  {
+    "id": "40CCuGBthJGP474TUScvR",
+    "name": "_main_01.typ",
+    "path": "/_main_01.typ",
+    "type": "file",
+    "lastModified": 1766737706902,
+    "size": 958,
+    "mimeType": "application/octet-stream",
+    "isBinary": false
+  },
+  {
+    "id": "8XoO3jBnlqGwNM2lQXxZn",
+    "name": "ref.typ",
+    "path": "/sections/ref.typ",
+    "type": "file",
+    "lastModified": 1766737653288,
+    "size": 320,
+    "mimeType": "application/octet-stream",
+    "isBinary": false
+  },
+  {
+    "id": "9eIMtP4VJRxDKwQeGuLtk",
+    "name": "sections",
+    "path": "/sections",
+    "type": "directory",
+    "lastModified": 1766736132486
+  },
+  {
+    "id": "AFf_4odJNYchee3MToJA0",
+    "name": "skill.typ",
+    "path": "/sections/job-01/skill.typ",
+    "type": "file",
+    "lastModified": 1766736537019,
+    "size": 874,
+    "mimeType": "application/octet-stream",
+    "isBinary": false
+  },
+  {
+    "id": "AThy7r4ANwEtg_nwTLVo6",
+    "name": "job-02",
+    "path": "/sections/job-02",
+    "type": "directory",
+    "lastModified": 1766736163356
+  },
+  {
+    "id": "BU6lskEGq0PoKSRY9I6LS",
+    "name": "work.typ",
+    "path": "/sections/job-02/work.typ",
+    "type": "file",
+    "lastModified": 1766736889881,
+    "size": 1205,
+    "mimeType": "application/octet-stream",
+    "isBinary": false
+  },
+  {
+    "id": "DTxKAmTknK5lTpEL5OnLv",
+    "name": "project.typ",
+    "path": "/sections/job-01/project.typ",
+    "type": "file",
+    "lastModified": 1766736547690,
+    "size": 1409,
+    "mimeType": "application/octet-stream",
+    "isBinary": false
+  },
+  {
+    "id": "FM_huQyZnC4ESMKWxN5tA",
+    "name": "__output",
+    "path": "/.texlyre_src/__output",
+    "type": "directory",
+    "lastModified": 1766736248552
+  },
+  {
+    "id": "HzfTctbp_wOefYyAGrp52",
+    "name": "work.typ",
+    "path": "/sections/job-01/work.typ",
+    "type": "file",
+    "lastModified": 1766736527394,
+    "size": 1205,
+    "mimeType": "application/octet-stream",
+    "isBinary": false
+  },
+  {
+    "id": "W0it-V3asiMOHy-fhXH6J",
+    "name": "_main_02.log",
+    "path": "/.texlyre_src/__output/_main_02.log",
+    "type": "file",
+    "lastModified": 1766737721515,
+    "size": 22,
+    "mimeType": "text/plain",
+    "isBinary": false
+  },
+  {
+    "id": "_GtcJ8fZEcYKjVwPtYi_A",
+    "name": "edu.typ",
+    "path": "/sections/edu.typ",
+    "type": "file",
+    "lastModified": 1766736463776,
+    "size": 2203,
+    "mimeType": "application/octet-stream",
+    "isBinary": false
+  },
+  {
+    "id": "acLpIBBD6hwxa_tNi7eKL",
+    "name": ".texlyre_src",
+    "path": "/.texlyre_src",
+    "type": "directory",
+    "lastModified": 1766736248551
+  },
+  {
+    "id": "lMWwivXlxWea3cnSryNDt",
+    "name": "extra.typ",
+    "path": "/sections/extra.typ",
+    "type": "file",
+    "lastModified": 1766736460423,
+    "size": 550,
+    "mimeType": "application/octet-stream",
+    "isBinary": false
+  },
+  {
+    "id": "lyB_MtzIzU8iObCRTuE7h",
+    "name": "skill.typ",
+    "path": "/sections/job-02/skill.typ",
+    "type": "file",
+    "lastModified": 1766736874191,
+    "size": 874,
+    "mimeType": "application/octet-stream",
+    "isBinary": false
+  },
+  {
+    "id": "sUK0EsxcWdDXfBpsaa1ve",
+    "name": "_main_02.pdf",
+    "path": "/.texlyre_src/__output/_main_02.pdf",
+    "type": "file",
+    "lastModified": 1766737721507,
+    "size": 60138,
+    "mimeType": "application/pdf",
+    "isBinary": true
+  },
+  {
+    "id": "vnXY2rdJWYN0ozLRbVN1d",
+    "name": "_main_02.typ",
+    "path": "/_main_02.typ",
+    "type": "file",
+    "lastModified": 1766737711866,
+    "size": 958,
+    "mimeType": "application/octet-stream",
+    "isBinary": false
+  },
+  {
+    "id": "zBWu_2WbEpqf3RpRXKxPJ",
+    "name": "project.typ",
+    "path": "/sections/job-02/project.typ",
+    "type": "file",
+    "lastModified": 1766737140945,
+    "size": 884,
+    "mimeType": "application/octet-stream",
+    "isBinary": false
+  },
+  {
+    "id": "0I2sqw13YVVgW9IwMVu_A",
+    "name": "skill.typ",
+    "path": "/skill.typ",
+    "type": "file",
+    "lastModified": 1766736467596,
+    "size": 0,
+    "mimeType": "application/octet-stream",
+    "isBinary": false,
+    "isDeleted": true
+  },
+  {
+    "id": "2UGgwWEBKabD2fSxaXB44",
+    "name": "job-01",
+    "path": "/job-01",
+    "type": "directory",
+    "lastModified": 1766736149393,
+    "size": 0,
+    "isDeleted": true
+  },
+  {
+    "id": "4MKrr-seT_w_TEvyAehpF",
+    "name": "edu.typ",
+    "path": "/edu.typ",
+    "type": "file",
+    "lastModified": 1766736463778,
+    "size": 0,
+    "mimeType": "application/octet-stream",
+    "isBinary": false,
+    "isDeleted": true
+  },
+  {
+    "id": "7IY0dvpPFaFfT9XiDS4ZL",
+    "name": "extra.typ",
+    "path": "/extra.typ",
+    "type": "file",
+    "lastModified": 1766736460428,
+    "size": 0,
+    "mimeType": "application/octet-stream",
+    "isBinary": false,
+    "isDeleted": true
+  },
+  {
+    "id": "7ckoOUFr4DYPHbUrb6iLp",
+    "name": "skill_copy.typ",
+    "path": "/sections/job-02/skill_copy.typ",
+    "type": "file",
+    "lastModified": 1766736874193,
+    "size": 0,
+    "mimeType": "application/octet-stream",
+    "isBinary": false,
+    "isDeleted": true
+  },
+  {
+    "id": "A3eXYHri0rKO3G7T8CU3b",
+    "name": "work.typ",
+    "path": "/work.typ",
+    "type": "file",
+    "lastModified": 1766736527396,
+    "size": 0,
+    "mimeType": "application/octet-stream",
+    "isBinary": false,
+    "isDeleted": true
+  },
+  {
+    "id": "FXc2IXhFSkcd-uxT1Ibuh",
+    "name": "_main_01_copy.typ",
+    "path": "/_main_01_copy.typ",
+    "type": "file",
+    "lastModified": 1766737206222,
+    "size": 0,
+    "mimeType": "application/octet-stream",
+    "isBinary": false,
+    "isDeleted": true
+  },
+  {
+    "id": "Ksdn65fjZ3NBP3FHZsmdu",
+    "name": "skill.typ",
+    "path": "/sections/skill.typ",
+    "type": "file",
+    "lastModified": 1766736537020,
+    "size": 0,
+    "mimeType": "application/octet-stream",
+    "isBinary": false,
+    "isDeleted": true
+  },
+  {
+    "id": "OBPzh_JmyMEcs_nXhNg8s",
+    "name": "project.typ",
+    "path": "/project.typ",
+    "type": "file",
+    "lastModified": 1766736547693,
+    "size": 0,
+    "mimeType": "application/octet-stream",
+    "isBinary": false,
+    "isDeleted": true
+  },
+  {
+    "id": "QtDZYBhn1lzMK7fJDu9Xx",
+    "name": "project_copy.typ",
+    "path": "/sections/job-02/project_copy.typ",
+    "type": "file",
+    "lastModified": 1766736897636,
+    "size": 0,
+    "mimeType": "application/octet-stream",
+    "isBinary": false,
+    "isDeleted": true
+  },
+  {
+    "id": "SBoFnVLKxTm9cCms2C3ze",
+    "name": "job-02",
+    "path": "/job-02",
+    "type": "directory",
+    "lastModified": 1766736163358,
+    "size": 0,
+    "isDeleted": true
+  },
+  {
+    "id": "SkOO7kWUTV7pw0P2cyk5b",
+    "name": "work_copy.typ",
+    "path": "/sections/job-02/work_copy.typ",
+    "type": "file",
+    "lastModified": 1766736889883,
+    "size": 0,
+    "mimeType": "application/octet-stream",
+    "isBinary": false,
+    "isDeleted": true
+  },
+  {
+    "id": "_FX_nmIdyv0ZJZxqVw7Xp",
+    "name": "_main_job-01.typ",
+    "path": "/_main_job-01.typ",
+    "type": "file",
+    "lastModified": 1766737186470,
+    "size": 0,
+    "mimeType": "application/octet-stream",
+    "isBinary": false,
+    "isDeleted": true
+  },
+  {
+    "id": "djMzVsAbCy1dUsDP92Nis",
+    "name": "work_copy.typ",
+    "path": "/sections/job-01/work_copy.typ",
+    "type": "file",
+    "lastModified": 1766736861301,
+    "size": 0,
+    "mimeType": "application/octet-stream",
+    "isBinary": false,
+    "isDeleted": true
+  },
+  {
+    "id": "hLsPHf92AY2y-5abECKrx",
+    "name": "skill_copy.typ",
+    "path": "/sections/job-01/skill_copy.typ",
+    "type": "file",
+    "lastModified": 1766736826915,
+    "size": 0,
+    "mimeType": "application/octet-stream",
+    "isBinary": false,
+    "isDeleted": true
+  },
+  {
+    "id": "iEJ5-ymXl-LVgA695kaNz",
+    "name": "ref.typ",
+    "path": "/ref.typ",
+    "type": "file",
+    "lastModified": 1766737539734,
+    "size": 0,
+    "mimeType": "application/octet-stream",
+    "isBinary": false,
+    "isDeleted": true
+  },
+  {
+    "id": "x_AExgL5o-sDR9GEQNUD5",
+    "name": "project_copy.typ",
+    "path": "/sections/job-01/project_copy.typ",
+    "type": "file",
+    "lastModified": 1766736849165,
+    "size": 0,
+    "mimeType": "application/octet-stream",
+    "isBinary": false,
+    "isDeleted": true
+  }
+]
